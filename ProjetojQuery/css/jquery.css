@@ -1,0 +1,27 @@
+.esconder{
+    display: none;
+}
+.center{
+    text-align: center;
+}
+.tamanho{
+    height: 30rem;
+    align-items: center;
+}
+.fotos{
+    animation-duration: 4s;
+    animation-delay: 2s;
+}
+.bg-site{
+ background: #a55eea;
+ box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.24) ; ;
+
+}
+
+.btn-site{
+    background: transparent;
+
+}
+body{
+    background-image: url("img/foto.jpg");
+}
