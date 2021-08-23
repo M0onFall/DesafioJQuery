@@ -13,8 +13,8 @@
     animation-delay: 2s;
 }
 .bg-site{
- background: #a55eea;
- box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.24) ; ;
+ background: black;
+ box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.24) ; 
 
 }
 
@@ -22,6 +22,7 @@
     background: transparent;
 
 }
-body{
-    background-image: url("img/foto.jpg");
+.bg-body{
+   background-color: rgba(0, 0, 0, 0.014) ;
+   box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.24) ;
 }
